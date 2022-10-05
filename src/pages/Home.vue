@@ -1,0 +1,3 @@
+<template>
+  Wrong page
+</template>
